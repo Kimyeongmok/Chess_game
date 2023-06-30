@@ -1,4 +1,3 @@
-<3일차 - Hello, World 프로그램>
 
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>

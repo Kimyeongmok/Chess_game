@@ -1,4 +1,5 @@
-
+#3일차 Hello, World 프로그램 main.cpp 코드
+```
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <iostream>
@@ -34,3 +35,4 @@ int main()
 
     return 0;
 }
+```
